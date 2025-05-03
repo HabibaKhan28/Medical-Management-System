@@ -19,6 +19,6 @@ Future Enhancements 💡
 🔹 User Authentication – Secure login system for authorized access
 🔹 Prescription Management – Add doctor notes & prescriptions
 🔹 Appointment Scheduling – Implement a booking system
-This project aims to simplify medical data management, reducing manual efforts and improving efficiency. Feel free to contribute, suggest enhancements, or report bugs! 🚀
+This project aims to simplify medical data management, reducing manual efforts and improving efficiency. Feel free to contribute, suggest enhancements, or report bugs!
 
-Would you like me to personalize it further with your GitHub profile link or add licensing details? 😊
+
