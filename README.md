@@ -1,4 +1,4 @@
-# Medical-Management-System
+Medical Management System 🏥
 A Medical Management System built using Python (Tkinter) for the GUI and MySQL for database management. This project enables healthcare professionals to efficiently manage patient records, offering functionalities like adding, viewing, updating, and deleting patient details through an interactive interface.
 
 Features ✨
@@ -14,16 +14,23 @@ Tech Stack 🛠
 - MySQL – Database for storing patient records
 - ttk.Treeview – Used for structured data display
 
+Setup & Installation 🚀
+
+install dependencies:
+pip install mysql-connector-python 
+
+⃣ Set up the database (SQL script provided in the repo)
+4️⃣ Run the application:
+python app.py  
+
 
 Future Enhancements 💡
 🔹 User Authentication – Secure login system for authorized access
 🔹 Prescription Management – Add doctor notes & prescriptions
 🔹 Appointment Scheduling – Implement a booking system
-This project aims to simplify medical data management, reducing manual efforts and improving efficiency. Feel free to contribute, suggest enhancements, or report bugs!
+This project aims to simplify medical data management, reducing manual efforts and improving efficiency. Feel free to contribute, suggest enhancements, or report bugs! 🚀
 
-CODE:
-
-
+CODE 📝
 import tkinter as tk
 from tkinter import messagebox, ttk
 import mysql.connector
@@ -136,5 +143,11 @@ style.map("Treeview", background=[('selected', '#b2dfdb')], foreground=[('select
 
 # Running the application
 root.mainloop()
+
+
+
+
+
+
 
 
